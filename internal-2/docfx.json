@@ -41,7 +41,7 @@
     "groups": {
       "internal-2": {
        "dest": "internal-2",
-        "moniker_range": "test-1.0"
+        "moniker_range": ">= contososerver-2.0 || >= contosoclient-1.0"
       }
     }
   }
