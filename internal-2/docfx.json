@@ -6,7 +6,7 @@
           "**/*.md",
           "**/*.yml"
         ],
-		"group": "active"
+		"group": "active",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
