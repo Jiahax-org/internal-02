@@ -6,7 +6,7 @@
       "build_source_folder": "internal-2",
       "build_output_subfolder": "internal-2",
       "locale": "en-us",
-      "monikers": ["test-1.0"],
+      "monikers": ["< contososerver-2.0", ">= contososerver-2.0 || >= contosoclient-1.0"],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
