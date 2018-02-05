@@ -43,7 +43,7 @@
     "template": [],
     "dest": "internal-2",
     "groups": {
-      "active": {
+      "%3E%3D%20contososerver-2.0%20%7C%7C%20%3E%3D%20contosoclient-1.0": {
        "dest": "active",
         "moniker_range": ">= contososerver-2.0 || >= contosoclient-1.0"
       }
