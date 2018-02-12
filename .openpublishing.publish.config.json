@@ -7,14 +7,15 @@
       "build_output_subfolder": "internal-2",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": ["< contososerver-2.0", ">= contososerver-2.0 || >= contosoclient-1.0"],
-      "open_to_public_contributors": false,
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
