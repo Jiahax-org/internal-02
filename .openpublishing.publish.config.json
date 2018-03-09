@@ -61,6 +61,6 @@
     "Pdf": {
       "template_folder": "_themes.pdf"
     }
-  }，
+  },
   "need_generate_pdf_url_template": true
 }
